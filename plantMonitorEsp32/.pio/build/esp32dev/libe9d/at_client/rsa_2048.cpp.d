@@ -1,0 +1,26 @@
+.pio/build/esp32dev/libe9d/at_client/rsa_2048.cpp.o: \
+ .pio/libdeps/esp32dev/at_client/src/rsa_2048.cpp \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/rsa.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/port/include/mbedtls/esp_config.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/config.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/check_config.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/soc_caps.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/port/include/esp_mem.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/port/include/mbedtls/bignum.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/bignum.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/md.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/platform_util.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/entropy.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/sha512.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/port/include/sha512_alt.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/hal/include/hal/sha_types.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_rom/include/esp32/rom/sha.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/ctr_drbg.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/aes.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/port/include/aes_alt.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/port/include/aes/esp_aes.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_common/include/esp_types.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/hal/include/hal/aes_types.h \
+ .pio/libdeps/esp32dev/at_client/include/base64.h \
+ .pio/libdeps/esp32dev/at_client/include/tiny-asn1.h \
+ .pio/libdeps/esp32dev/at_client/include/rsa_2048.h

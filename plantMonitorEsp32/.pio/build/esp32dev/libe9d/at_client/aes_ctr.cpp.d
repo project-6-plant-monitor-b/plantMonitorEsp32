@@ -1,0 +1,23 @@
+.pio/build/esp32dev/libe9d/at_client/aes_ctr.cpp.o: \
+ .pio/libdeps/esp32dev/at_client/src/aes_ctr.cpp \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/aes.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/port/include/mbedtls/esp_config.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/config.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/check_config.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/soc/esp32/include/soc/soc_caps.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/port/include/esp_mem.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/platform_util.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/port/include/aes_alt.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/port/include/aes/esp_aes.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_common/include/esp_types.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/hal/include/hal/aes_types.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/rsa.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/port/include/mbedtls/bignum.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/bignum.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/md.h \
+ .pio/libdeps/esp32dev/at_client/include/aes_ctr.h \
+ .pio/libdeps/esp32dev/at_client/include/base64.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/rsa_internal.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/pk.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/ecp.h \
+ /home/cristian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/mbedtls/mbedtls/include/mbedtls/ecdsa.h

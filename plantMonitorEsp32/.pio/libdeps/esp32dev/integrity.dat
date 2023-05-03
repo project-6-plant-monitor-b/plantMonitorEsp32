@@ -1,0 +1,3 @@
+adafruit/DHT sensor library@^1.4.4
+jeremytubongbanua/at_client@^0.2.2
+bblanchon/ArduinoJson@^6.21.2
