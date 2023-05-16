@@ -12,7 +12,6 @@
 const int analogSoilPin = 32;
 // analog input pin for light sensor (P35);
 const int analogLightPin = 35;
-// const int analogLightPin = 27;
 // digital input pin for DHT11 (hum/temp) (P26)
 const int DHTPIN = 26;
 
@@ -21,6 +20,7 @@ DHT dht(DHTPIN, DHT11);
 
 // intitializing AtClient variable
 AtClient *at_client;
+
 // initializing AtKeys for temperature, soil, humidity and light
 AtKey *at_keyTemp;
 AtKey *at_keySoil;
@@ -55,7 +55,7 @@ void loop()
   // read the analog input soil and light
   int soilMoistureValue = analogRead(analogSoilPin);
   int lightSensorValue = analogRead(analogLightPin);
-  // int lightSensorValue = digitalRead(analogLightPin);
+
   // read the input for temperature and humidity
   float i = 0.0;
   float_t temperatureValue = dht.readTemperature();
